@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Al-Insyirah_94.mp4
+Prompt: Daily Quran Al-Insyirah 1-5
+
+--- TITLE ---
+Al-Insyirah 1:5 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Al-Insyirah Verses 1-5.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+Did We not expand for you, [O Muhammad], your breast? And We removed from you your burden Which had weighed upon your back And raised high for you your repute. For indeed, with hardship [will be] ease.
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Al-Insyirah, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Al-Insyirah 1:5 | Daily Quran | Harmony of Faith",
+  "description": "Surah Al-Insyirah Verses 1-5.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nDid We not expand for you, [O Muhammad], your breast? And We removed from you your burden Which had weighed upon your back And raised high for you your repute. For indeed, with hardship [will be] ease.\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Al-Insyirah",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AL-INSYIRAH",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}
