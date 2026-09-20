@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Al-Ikhlas_112.mp4
+Prompt: Daily Quran Al-Ikhlas 1-4
+
+--- TITLE ---
+Al-Ikhlas 1:4 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Al-Ikhlas Verses 1-4.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+Say, "He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent."
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Al-Ikhlas, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Al-Ikhlas 1:4 | Daily Quran | Harmony of Faith",
+  "description": "Surah Al-Ikhlas Verses 1-4.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nSay, \"He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent.\"\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Al-Ikhlas",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AL-IKHLAS",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}

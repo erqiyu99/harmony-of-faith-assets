@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Al-Asr_103.mp4
+Prompt: Daily Quran Al-'Asr 1-3
+
+--- TITLE ---
+Al-'Asr 1:3 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Al-'Asr Verses 1-3.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+By time, Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Al-'Asr, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Al-'Asr 1:3 | Daily Quran | Harmony of Faith",
+  "description": "Surah Al-'Asr Verses 1-3.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nBy time, Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Al-'Asr",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AL-'ASR",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}

@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Az-Zalzalah_99.mp4
+Prompt: Daily Quran Az-Zalzalah 1-5
+
+--- TITLE ---
+Az-Zalzalah 1:5 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Az-Zalzalah Verses 1-5.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+When the earth is shaken with its [final] earthquake And the earth discharges its burdens And man says, "What is [wrong] with it?" - That Day, it will report its news Because your Lord has commanded it.
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Az-Zalzalah, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Az-Zalzalah 1:5 | Daily Quran | Harmony of Faith",
+  "description": "Surah Az-Zalzalah Verses 1-5.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nWhen the earth is shaken with its [final] earthquake And the earth discharges its burdens And man says, \"What is [wrong] with it?\" - That Day, it will report its news Because your Lord has commanded it.\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Az-Zalzalah",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AZ-ZALZALAH",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}

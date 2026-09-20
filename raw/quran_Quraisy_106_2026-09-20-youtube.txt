@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Quraisy_106.mp4
+Prompt: Daily Quran Quraisy 1-4
+
+--- TITLE ---
+Quraisy 1:4 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Quraisy Verses 1-4.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+For the accustomed security of the Quraysh - Their accustomed security [in] the caravan of winter and summer - Let them worship the Lord of this House, Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Quraisy, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Quraisy 1:4 | Daily Quran | Harmony of Faith",
+  "description": "Surah Quraisy Verses 1-4.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nFor the accustomed security of the Quraysh - Their accustomed security [in] the caravan of winter and summer - Let them worship the Lord of this House, Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Quraisy",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "QURAISY",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}
