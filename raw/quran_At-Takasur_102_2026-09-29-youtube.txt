@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_At-Takasur_102.mp4
+Prompt: Daily Quran At-Takasur 1-5
+
+--- TITLE ---
+At-Takasur 1:5 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah At-Takasur Verses 1-5.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+Competition in [worldly] increase diverts you Until you visit the graveyards. No! You are going to know. Then no! You are going to know. No! If you only knew with knowledge of certainty...
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, At-Takasur, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "At-Takasur 1:5 | Daily Quran | Harmony of Faith",
+  "description": "Surah At-Takasur Verses 1-5.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nCompetition in [worldly] increase diverts you Until you visit the graveyards. No! You are going to know. Then no! You are going to know. No! If you only knew with knowledge of certainty...\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "At-Takasur",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AT-TAKASUR",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}
