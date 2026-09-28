@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Al-Adiyat_100.mp4
+Prompt: Daily Quran Al-'Adiyat 1-6
+
+--- TITLE ---
+Al-'Adiyat 1:6 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Al-'Adiyat Verses 1-6.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+By the racers, panting, And the producers of sparks [when] striking And the chargers at dawn, Stirring up thereby [clouds of] dust, Arriving thereby in the center collectively, Indeed mankind, to his Lord, is ungrateful.
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Al-'Adiyat, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Al-'Adiyat 1:6 | Daily Quran | Harmony of Faith",
+  "description": "Surah Al-'Adiyat Verses 1-6.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nBy the racers, panting, And the producers of sparks [when] striking And the chargers at dawn, Stirring up thereby [clouds of] dust, Arriving thereby in the center collectively, Indeed mankind, to his Lord, is ungrateful.\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Al-'Adiyat",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AL-'ADIYAT",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}
