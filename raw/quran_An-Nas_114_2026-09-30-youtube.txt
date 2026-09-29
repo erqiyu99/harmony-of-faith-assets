@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_An-Nas_114.mp4
+Prompt: Daily Quran An-Nas 1-4
+
+--- TITLE ---
+An-Nas 1:4 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah An-Nas Verses 1-4.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+Say, "I seek refuge in the Lord of mankind, The Sovereign of mankind. The God of mankind, From the evil of the retreating whisperer -
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, An-Nas, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "An-Nas 1:4 | Daily Quran | Harmony of Faith",
+  "description": "Surah An-Nas Verses 1-4.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nSay, \"I seek refuge in the Lord of mankind, The Sovereign of mankind. The God of mankind, From the evil of the retreating whisperer -\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "An-Nas",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AN-NAS",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}
