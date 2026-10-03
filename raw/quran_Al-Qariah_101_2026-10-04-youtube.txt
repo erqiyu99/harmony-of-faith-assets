@@ -1,0 +1,54 @@
+=== YOUTUBE SHORTS METADATA ===
+Video: quran_Al-Qariah_101.mp4
+Prompt: Daily Quran Al-Qari'ah 1-5
+
+--- TITLE ---
+Al-Qari'ah 1:5 | Daily Quran | Harmony of Faith
+
+--- DESCRIPTION ---
+Surah Al-Qari'ah Verses 1-5.
+
+Recited by Mishary Rashid Alafasy. Translation: Saheeh International.
+
+The Striking Calamity - What is the Striking Calamity? And what can make you know what is the Striking Calamity? It is the Day when people will be like moths, dispersed, And the mountains will be like wool, fluffed up.
+
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- TAGS ---
+Quran, Daily Quran, Islamic shorts, Al-Qari'ah, Quran recitation, Alafasy, Harmony of Faith, Quran verses, Islamic video
+
+--- HASHTAGS ---
+#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts
+
+--- CATEGORY ---
+22
+
+--- TARGET AUDIENCE ---
+Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45
+
+--- RAW JSON ---
+{
+  "title": "Al-Qari'ah 1:5 | Daily Quran | Harmony of Faith",
+  "description": "Surah Al-Qari'ah Verses 1-5.\n\nRecited by Mishary Rashid Alafasy. Translation: Saheeh International.\n\nThe Striking Calamity - What is the Striking Calamity? And what can make you know what is the Striking Calamity? It is the Day when people will be like moths, dispersed, And the mountains will be like wool, fluffed up.\n\n#Quran #Islam #DailyQuran #HarmonyOfFaith #Shorts",
+  "tags": [
+    "Quran",
+    "Daily Quran",
+    "Islamic shorts",
+    "Al-Qari'ah",
+    "Quran recitation",
+    "Alafasy",
+    "Harmony of Faith",
+    "Quran verses",
+    "Islamic video"
+  ],
+  "hashtags": [
+    "#Quran",
+    "#Islam",
+    "#DailyQuran",
+    "#HarmonyOfFaith",
+    "#Shorts"
+  ],
+  "thumbnailText": "AL-QARI'AH",
+  "category": "22",
+  "targetAudience": "Muslims and spiritual seekers interested in daily Quran reflection, ages 18-45"
+}
